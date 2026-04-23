@@ -1,11 +1,10 @@
 
 # 🧑🏽‍💻 Josué Honório
-  💻 Desenvolvedor Web
+  💻 Dev Web
 
 
 
-Me chamo Josué Honório, tenho 30 anos e sou natural de Brasília DF. Atualmente, Concluí o curso de Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonada por tecnologia e sempre procurando me aperfeiçoar cada vez mais na area da tecnologia
-
+My name is Josué Honório, I'm 30 years old and I'm from Brasília DF. I have currently completed the Systems Analysis and Development course at Estácio. I am passionate about technology and always looking to improve myself more and more in the field of technology
 ---
 
 ### 🤖 Linguagens e Tecnologias
