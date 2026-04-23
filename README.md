@@ -1,6 +1,6 @@
 
 # 🧑🏽‍💻 Josué Honório
-  💻 Desenvolvimento Web
+  💻 Desenvolvedor Web
 
 
 
